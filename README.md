@@ -1,4 +1,13 @@
-### Hi there 👋
+# Carlos Velázquez
+🌱 Estudiante de la Maestría en Ciencia de Datos
+
+:floppy_disk: Interés en aplicar metodologías de Ciencia de Datos en la Seguridad de Información
+
+:computer: Habilidades:
+* Bash
+* Python
+* R
+
 
 :closed_book: — Mis entradas mas recientes en Medium 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@carlos_vzlqz/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@carlos_vzlqz/0" alt="Recent Article 0"> 

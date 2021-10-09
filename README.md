@@ -7,6 +7,7 @@
 * Bash
 * Python
 * R
+* SQL
 
 
 :closed_book: — Mis entradas mas recientes en Medium 
